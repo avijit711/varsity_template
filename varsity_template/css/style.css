@@ -1,0 +1,135 @@
+body {
+  background-image: url("/image/bg-textura3.png");
+}
+.logo {
+  margin-left: 350px;
+  max-width: 500px;
+}
+.left {
+  float: left;
+  max-width: 500px;
+  width: 400px;
+  height: 250px;
+  margin: 10px;
+  /*border: 5px solid grey;*/
+  background-color: white;
+  /*background-image: url("/image/bg-header.png");*/
+  background-color: rgb(20,114,130);
+  margin-left: 10px;
+  border: 1px solid blue;
+}
+.center {
+  float: left;
+  max-width: 550px;
+  width: 500px;
+  height: 250px;
+  min-height: 249px;
+  margin: 10px;
+  background-image: url("bg-header.png");
+  background-color: white;
+
+}
+.right {
+  float: left;
+  max-width: 350px;
+  width: 350px;
+  height: 250px;
+  margin-right: 10px;
+  border: 1px solid blue;
+  background-color: rgb(20,114,130);
+  margin-left: 10px;
+  color: white;
+
+}
+.main {
+  margin: auto;
+  width: 100%;
+}
+.notice {
+  max-width: 500px;
+  background-color: rgb(217,237,247);
+  color: black;
+  padding: 2px;
+  text-align: center;
+  font-size: 25px;
+  border-bottom: 1px solid blue;
+
+}
+.noticeMarque{
+  font-size: 25px;
+
+}
+.minar {
+  height: 250px;
+  width: 500px;
+}
+.begSir {
+  height: 100px;
+  width: 43px;
+}
+.shadowClass{
+
+}
+.moving:hover {
+  box-shadow: 2px 2px 2px 2px black;
+  height: 255px;
+  margin-left: 10px;
+  /*width: 430px;*/
+  /*margin-left: -5px;
+  margin-right: 5px;*/
+  margin-top: -1px;
+  margin-bottom: -2.5px;
+  width: 410px;
+  margin-right: 3px;
+}
+.copyright {
+  background-color: rgb(36,39,41);
+  width: 100%;
+  color: white;
+  text-align: center;
+  /*padding-top: 5px;
+  padding-bottom: 5px;*/
+  margin-bottom: -100px;
+  margin-right: -100px;
+  margin-left: -10px;
+  padding: 20px;
+
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  background-color: grey;
+  color: white;
+  padding: 5px;
+  margin: 10px;
+}
+a:active {
+  color: green;
+}
+a:visited{
+  color: ;
+}
+.vcMessage {
+  font-size: 20px;
+}
+.cse {
+  float: left;
+  width: 400px;
+  height: 250px;
+  min-height: 249px;
+  margin: 10px 5px 10px 20px;
+  background-image: url("bg-header.png");
+  background-color: rgb(196,227,243);
+  border: 1px solid ;
+}
+.notice2 {
+  max-width: 500px;
+  background-color: rgb(223,240,216);
+  color: green;
+  padding: 2px;
+  text-align: center;
+  font-size: 25px;
+  border-bottom: 1px solid ;
+}
